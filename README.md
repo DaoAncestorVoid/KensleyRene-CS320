@@ -1,2 +1,2 @@
 # KensleyRene-CS230
-repository for first activity
+“Repository for git setup, Kensley Rene”
